@@ -42,3 +42,7 @@ Thumbs.db
 *.bak
 *.orig
 *.old*
+
+# IDE Files #
+#############
+.idea
